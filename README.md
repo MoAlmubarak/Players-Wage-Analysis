@@ -35,4 +35,3 @@ Employing statistical analyses, data visualization, and machine learning techniq
 Utilizing VSCode, the project involves a dataset in CSV format and a Python file in ipynb format.
 
 ## Dashboard:
-![Alt Text](/Users/mo.almubarak/Desktop/Screenshot 2024-02-02 at 9.59.17 PM.png)
