@@ -35,4 +35,5 @@ Employing statistical analyses, data visualization, and machine learning techniq
 Utilizing VSCode, the project involves a dataset in CSV format and a Python file in ipynb format.
 
 ## Dashboard:
+https://public.tableau.com/app/profile/mohammed.almubarak/viz/Players-salary_Dashboard/Dashboard22
 ![Image for the dashboard](./Dashboard.png)
